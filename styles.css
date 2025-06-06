@@ -1,0 +1,67 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #0066cc;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.pup {
+    width: 400px;
+}
+
+form input {
+    display: block;
+    margin: 15px 0 10px 0;
+    min-width: 300px;
+    min-height: 50px;
+}
+
+form textarea {
+    display: block;
+    min-width: 300px;
+    min-height: 100px;
+}
+
+form button {
+    display: block;
+    margin: 10px 0 15px 0;
+    min-width: 200px;
+    min-height: 35px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
